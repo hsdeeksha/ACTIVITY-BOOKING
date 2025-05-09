@@ -27,7 +27,7 @@ MeetX is an activity booking platform built with Node.js, Express, MongoDB, and 
 
 ## 📁 Folder Structure
 
-meetx-backend/
+Meetx-backend/
 ├── controllers/
 ├── models/
 ├── routes/
